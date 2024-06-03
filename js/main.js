@@ -132,4 +132,4 @@ sr.reveal(".footer__item", {
   interval: 100,
 });
 
-sr.reveal(".footer__copyright");
+// sr.reveal(".footer__copyright");
